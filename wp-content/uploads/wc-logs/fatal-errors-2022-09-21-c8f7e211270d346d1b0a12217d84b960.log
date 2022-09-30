@@ -1,0 +1,4 @@
+2022-09-21T14:47:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\wamp64\www\dijakala\wp-admin\includes\class-wp-filesystem-direct.php روی خط 76
+
+2022-09-21T15:48:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\wamp64\www\dijakala\wp-content\plugins\persian-elementor\includes\admin\codestar-framework\classes\setup.class.php روی خط 330
+

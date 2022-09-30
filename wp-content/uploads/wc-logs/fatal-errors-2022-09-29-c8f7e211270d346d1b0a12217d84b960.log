@@ -1,0 +1,4 @@
+2022-09-29T06:52:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\wamp64\www\dijakala\wp-content\plugins\jet-elements\includes\modules\jet-elementor-extension\inc\controls\repeater.php روی خط 5
+
+2022-09-29T06:56:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded در C:\wamp64\www\dijakala\wp-includes\Requests\Transport\cURL.php روی خط 165
+
